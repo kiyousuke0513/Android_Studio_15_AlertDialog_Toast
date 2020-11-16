@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlertDialog_Toast</string>
+    <string name="BTN_Toast">Toast</string>
+    <string name="BTN_Alert_Dialog">Alert Dialog</string>
+    <string name="TV_Toast">顯示Toast快訊</string>
+    <string name="TV_Alert_Dialog">顯示Alert Dialog對話框</string>
+</resources>
